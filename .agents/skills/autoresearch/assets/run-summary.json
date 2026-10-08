@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "objective": null,
+  "protocol": null,
+  "baseline": {"run_ids": [], "raw_metric": null, "sample_std": null},
+  "best_method": {"name": null, "run_ids": [], "raw_metric": null, "sample_std": null, "artifacts": []},
+  "final_replay": {"status": "NOT_RUN", "run_ids": [], "evidence": []},
+  "conclusions": {
+    "environment": "NOT_RUN",
+    "agent_execution": "NOT_RUN",
+    "paper_reproduction": "NOT_RUN",
+    "method_improvement": "NOT_RUN"
+  },
+  "cost": {"wall_seconds": null, "effective_research_seconds": null, "gpu_hours": null, "model_cost": null},
+  "failed_runs": [],
+  "limitations": [],
+  "reproduce_command": null,
+  "resume_file": null
+}

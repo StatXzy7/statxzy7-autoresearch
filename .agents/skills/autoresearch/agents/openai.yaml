@@ -1,0 +1,6 @@
+interface:
+  display_name: "AutoResearch"
+  short_description: "Reproducible research, bounded experiments and method improvement"
+  default_prompt: "使用 $autoresearch 从论文、代码或研究问题建立可复现的实验，固定评价协议和预算，迭代方法并复验最佳方案。"
+policy:
+  allow_implicit_invocation: true

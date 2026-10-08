@@ -1,0 +1,20 @@
+{
+  "metric": null,
+  "direction": null,
+  "protocol": null,
+  "split": null,
+  "stochastic": null,
+  "seeds": [],
+  "baseline_runs": [],
+  "reference_runs": [],
+  "upper_bound": {
+    "source": "estimated_attainable_upper_bound",
+    "value": null,
+    "basis": null,
+    "evidence_paths": [],
+    "attainability": {"mode": "estimate", "run_ids": []}
+  },
+  "reference_score_range": [0, 1],
+  "sigma_required": 3,
+  "require_demonstrated_u": false
+}

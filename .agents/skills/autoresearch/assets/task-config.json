@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "objective": null,
+  "protocol": {
+    "id": null,
+    "metric": null,
+    "direction": null,
+    "data_identity": null,
+    "development_split": null,
+    "final_split": null,
+    "stochastic": null,
+    "seeds": [],
+    "selection_rule": null
+  },
+  "environment": {"ssh_host": null, "workdir": null, "python": null, "devices": []},
+  "budget": {"max_rounds": null, "max_seconds": null, "round_timeout": null, "max_failures": null, "gpu_hours": null, "cost_limit": null, "enforcement": null},
+  "agents": [],
+  "boundaries": {"editable_paths": [], "frozen_paths": [], "private_assets": [], "isolation_evidence": []},
+  "completion_criteria": [],
+  "stop_conditions": [],
+  "state": "NOT_RUN"
+}

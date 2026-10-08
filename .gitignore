@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+.mypy_cache/
+.ruff_cache/
+environment.json
+runs/
+agent-loops/

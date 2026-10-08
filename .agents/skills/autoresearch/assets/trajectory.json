@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "protocol": null,
+  "agent": null,
+  "rounds": [],
+  "round_template": {
+    "round": null,
+    "method": null,
+    "hypothesis": null,
+    "run_ids": [],
+    "status": "NOT_RUN",
+    "raw_metric": null,
+    "failure_reason": null,
+    "analysis": null,
+    "decision": null,
+    "next_step": null,
+    "started_at": null,
+    "finished_at": null,
+    "evidence": []
+  }
+}
